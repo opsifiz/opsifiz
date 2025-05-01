@@ -14,6 +14,6 @@ My name is Pachara Thammasat, you can call me Fifa as short.
 - Medium : [@fifafayya](https://medium.com/@fifafayya)
 - E - mail : [fifafayya@gmail.com]()
 
-## Stat
+## Stats
 ![opsifiz's Stats](https://github-readme-stats.vercel.app/api?username=opsifiz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[![fifafayya's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=fifafayya&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+<img src="https://leetcard.jacoblin.cool/fifafayya?theme=nord&font=PT%20Sans">
